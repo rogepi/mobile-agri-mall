@@ -2,8 +2,8 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
 import Vant from 'vant'
-import './assets/style/vant.theme.less'
-import './assets/style/tailwind.css'
+import 'vant/lib/index.less'
+import '@ASS/css/tailwind.css'
 
 const app = createApp(App)
 app.use(router)

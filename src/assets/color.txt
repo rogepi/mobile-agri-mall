@@ -1,0 +1,4 @@
+yellow: #FFB531
+black: #030835
+green: #34D399 
+#9CA3AF
